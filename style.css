@@ -237,16 +237,16 @@ h3,
 
     .hero-section {
 
-        padding-top: 40px;
+        padding-top: 30px;
         padding-bottom: 45px;
 
     }
 
     .hero-img {
 
-        max-width: 82%;
+        max-width: 85%;
 
-        margin-bottom: 10px;
+        margin-bottom: 0;
 
     }
 
@@ -305,7 +305,7 @@ h3,
 
     color: #F8F5EF;
 
-    margin-bottom: 30px;
+    margin-bottom: 24px;
 
 }
 
@@ -381,7 +381,7 @@ h3,
 
     .hero-img {
 
-        max-width: 85%;
+        max-width: 100%;
 
         margin-bottom: 0;
 
@@ -400,7 +400,7 @@ h3,
 
     .hero-subtext {
 
-        margin-bottom: 24px;
+        margin-bottom: 28px;
 
     }
 
@@ -671,14 +671,14 @@ h3,
 
 .featured-img-wrap {
 
-    height: 150px;
+    height: 220px;
 
     display: flex;
 
     align-items: center;
     justify-content: center;
 
-    margin-bottom: 24px;
+    margin-bottom: 20px;
 
 }
 
@@ -746,7 +746,13 @@ h3,
 
     .featured-img-wrap {
 
-        height: 150px;
+        height: 210px;
+
+    }
+
+    .featured-img {
+
+        max-height: 210px;
 
     }
 
@@ -789,13 +795,13 @@ h3,
 
     .featured-img-wrap {
 
-        height: 150px;
+        height: 200px;
 
     }
 
     .featured-img {
 
-        max-height: 150px;
+        max-height: 200px;
 
     }
 
